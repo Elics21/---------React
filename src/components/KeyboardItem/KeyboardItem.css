@@ -1,0 +1,23 @@
+.keyboard-item{
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    border-radius: 0;
+    border: none;
+    width: 70px;
+    height: 70px;
+    padding: 0;
+    display: block;
+}
+
+.keyboard-item:hover{
+    transform: scale(1.2);
+
+}
+
+.keyboard-item.true{
+    background-color: green;
+}
+.keyboard-item.false{
+    background-color: red;
+}

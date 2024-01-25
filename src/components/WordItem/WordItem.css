@@ -1,0 +1,9 @@
+.word-item{
+    border-bottom: 1px solid #ffffff;
+    width: 30px;
+    text-align: center;
+}
+
+.word-item-symbol{
+    font-size: 30px;
+}
