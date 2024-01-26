@@ -4,7 +4,7 @@ import Gallows from "./components/Gallows/Gallows.";
 import KeyboardList from "./components/KeyboardList/KeyboardList";
 import Word from "./components/Word/word";
 
-const WORDS = ["паша"];
+const WORDS = ["бегимот"];
 const RUSSIAN_ALPHABET = [
     "А",
     "Б",
@@ -85,7 +85,6 @@ function App() {
                 );
             }
         }
-        console.log(alphabet);
     };
 
     return (
